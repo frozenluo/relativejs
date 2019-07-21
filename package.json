@@ -1,0 +1,17 @@
+{
+  "name": "relativejs",
+  "version": "0.0.1",
+  "description": "input two paths, get relative path",
+  "main": "index.js",
+  "repository": "git@github.com:frozenluo/relativejs.git",
+  "author": "Zhang Dazhan <frozenluo@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
