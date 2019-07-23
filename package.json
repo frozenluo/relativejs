@@ -1,5 +1,5 @@
 {
-  "name": "relativejs",
+  "name": "relative.to",
   "version": "0.0.1",
   "description": "input two paths, get relative path",
   "main": "index.js",
